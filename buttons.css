@@ -1,0 +1,142 @@
+.header_1{
+    margin-top: 10px;
+    width: 1000px;
+    height: 170px;
+}
+.head_2{
+    height: 40px;
+    width: 100%;
+}
+.header_m{
+    height: 170px;
+    width: auto;
+    background-image: url(https://cdn.myanimelist.net/s/common/uploaded_files/1490741755-0b0bbe85fd2d4ba1ca0eecb509667da0.jpeg);
+    background-color: black;
+    background-size:cover;
+    background-position: center;
+}
+.navigation{
+    background-color: rgba(28, 27, 26, 0.916);
+    padding-left: 0;
+    height: 40px;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    color:aliceblue
+
+}
+.logo_ch{
+    height: 50px;
+    width: 50px;
+    margin-top: 50px;
+    position: absolute;
+    right: 15px;
+    top:80px;
+}
+.main_page{
+    height: 40px;
+    width: 12%;
+    animation-duration: 0.8s;
+    text-align: center;
+    line-height: 40px;
+    position: absolute;
+    margin-left: 0%;
+    opacity: 1;
+    font-family: 'Audiowide', cursive;
+}
+.main_page:hover{
+    height: 70px;
+    width: 12%;
+    margin-top: -15px;
+    transition-duration: 1.5s;
+    transition-delay: 0s, 1s;
+    transition-timing-function: ccubic-bezier(0, 0, 0.58, 1.0);
+    line-height: 60px;
+    background-size:100%;
+    font-size: 40px;
+    opacity: 1;
+    background-color: black;
+    color:aliceblue;
+}
+.main_href{
+    color: black;
+}
+.main_href:hover{
+    color:aliceblue;
+}
+.berserk_page{
+    height: 40px;
+    width: 12%;
+    animation-duration: 0.8s;
+    text-align: center;
+    line-height: 40px;
+    position: absolute;
+    margin-left: 12%;
+    font-family: 'Volkhov', serif;
+}
+.berserk_page:hover{
+    height: 70px;
+    width: 12%;
+    background-image:url('/img/Berserk_img/button_ber.jpg') ;
+    background-size:100%;
+    margin-top: -15px;
+    transition-duration: 1.5s;
+    transition-delay: 0s, 1s;
+    transition-timing-function: ccubic-bezier(0, 0, 0.58, 1.0);
+    line-height: 60px;
+    color: aliceblue;
+    font-size: 40px;
+    font-family: 'Bangers', cursive;
+}
+.chainsaw_page{
+    height: 40px;
+    width: 12%;
+    animation-duration: 0.8s;
+    text-align: center;
+    line-height: 40px;
+    position: absolute;
+    margin-left: 24%;
+    font-family: 'Volkhov', serif;
+}
+.chainsaw_page:hover{
+    height: 70px;
+    width: 12%;
+    background-image: url(https://media.distractify.com/brand-img/hav7RzCWZ/1200x628/chainsaw-man-manga-1642711018060.jpg);
+    background-size:100%;
+    margin-top: -15px;
+    transition-duration: 1.5s;
+    transition-delay: 0s, 1s;
+    transition-timing-function: ccubic-bezier(0, 0, 0.58, 1.0);
+    line-height: 60px;
+    font-family: 'Rock Salt', cursive;
+    font-size: 100%;
+    color:aliceblue;
+}
+.reincornation_page{
+    height: 40px;
+    width: 12%;
+    animation-duration: 0.8s;
+    text-align: center;
+    line-height: 12px;
+    position: absolute;
+    margin-left: 36%;
+    font-family: 'Volkhov', serif;
+    font-size: 10px;
+}
+.reincornation_page:hover{
+    height: 70px;
+    width: 12%;
+    margin-top: -15px;
+    transition-duration: 1.5s;
+    transition-delay: 0s, 1s;
+    transition-timing-function: ccubic-bezier(0, 0, 0.58, 1.0);
+    line-height: 22px;
+    font-family: 'Chewy', cursive;
+    background-image: url(https://i.ytimg.com/vi/etbj9Wh4n-k/maxresdefault.jpg);
+    background-size:100%;
+    font-size: 25px;
+    color:black;
+}
+.Body{
+    margin: 0;
+}

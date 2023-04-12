@@ -1,0 +1,68 @@
+
+#social-test {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 30px;
+    }
+    .social {
+        padding-left: 0px;
+    }
+    li {
+        color: rgba(167, 146, 129, 0.6);
+        list-style-type: none;
+        display: inline-block;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        padding: 1%;
+        border: 1px solid rgba(167, 146, 129, 0.4);
+        cursor: pointer;
+        margin-left: 10px;
+        margin-bottom: 20px;
+        transition: ease .3s;}
+        li:hover {
+            color: rgba(167, 146, 129, 1);
+            border: 1px solid rgba(167, 146, 129, 1);
+    }
+.social:hover > li {
+    opacity: 0.5;
+}
+
+.social:hover > li:hover {
+    opacity: 1;
+}
+.fa{
+    text-align: center;
+    vertical-align: middle;
+    font-size: 30px;
+    color: rgba(167, 146, 129, 1);
+}
+.fa:active{
+    color:rgba(167, 146, 129, 1);
+}
+.fa:visited{
+    color:rgba(167, 146, 129, 1);
+}
+.padval {
+    display: table;
+    width: 100%;
+    height: 30%;
+    background-color: rgba(28, 27, 26, 0.916);
+    margin-top: 15px;
+    padding-top: 15px;
+
+}
+#rights{
+    color: aliceblue;
+    text-align: center;
+}
+.foot{
+    height: 20%;
+    width: 100%;
+    margin-top: 5%;
+}
+#company{
+    color: aliceblue;
+    text-align: center;
+}

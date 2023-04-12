@@ -1,0 +1,69 @@
+
+.chainsaw_page{
+    background-color:rgb(73, 165, 198);
+    color:black;
+}
+.Body{
+    background-color: rgb(59, 55, 55);
+}
+.chain_body{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.name{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 5px;
+    color:rgb(129, 191, 246);
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+.ch1{
+    text-align: center;
+    margin-top: 0;
+    border: 20px;
+    border-color: black;
+    border: solid;
+    text-align: center;
+    border-color: rgb(187, 202, 215);
+    background-color: rgb(121, 137, 170);
+    padding:10px;
+}
+.ch_text{
+    font-size:25px;
+}
+.ch_t{
+    font-size:large;
+    text-align: center;
+    color:rgb(218, 226, 248);
+}
+.risovka{
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-family: 'Amatic SC', cursive;
+}
+.p1{
+    margin-top: 10px;
+    height: 20%;
+    width:70%;
+}
+.world{
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-family: 'Amatic SC', cursive;
+}
+.sujet{
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-family: 'Amatic SC', cursive;
+}
+.posil{
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-family: 'Amatic SC', cursive;
+}
+.zakluchenie{
+    font-size:large;
+    text-align: center;
+    color:rgb(218, 226, 248)
+}

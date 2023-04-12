@@ -1,0 +1,104 @@
+.header_m{
+    height: 170px;
+    width: auto;
+    background-image: url(img\main_page_img\background_img_1.jpg);
+    background-color: black;
+    background-size:cover;
+    background-position: center;
+}
+.main_page{
+    background-color:rgba(167, 146, 129, 1);
+    color:black;
+}
+.Body{
+    background-color: rgb(59, 55, 55);
+}
+.main_body{
+    color: rgba(200, 200, 178, 0.888);
+}
+.M1{
+    margin-top: 60px;
+    font-size: 125%;
+    height: auto;
+    width: 80%;
+    background-color: rgba(167, 146, 129, 1);
+    padding: 10px;
+    margin-left: 15%;
+    border-radius: 13px;
+    width: 70%;
+}
+.M1_img{
+    height: 165px;
+    width: 25%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.H1{
+    font-size: 30px;
+    margin-bottom: 5px;
+    color: rgb(229, 190, 159);
+}
+.history{
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 70%;
+    margin-left: 15%;
+}
+.his_manga{ 
+    font-size: larger;
+}
+.h2{
+    margin-top: 20px;
+}
+.h3{
+    padding-top: 20px;
+}
+.nowdays{
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 70%;
+    margin-left: 15%;
+}
+.N1{
+    font-size: 30px;
+    margin-bottom: 5px;
+    color: rgb(229, 190, 159);
+}
+.n{
+    font-size: larger;
+}
+.n2{
+    padding-top: 20px;
+}
+.n3{
+    padding-top: 20px;
+}
+.n4{
+    padding-top: 20px;
+}
+.janrs{
+    font-size: medium;
+    background-color:rgba(167, 146, 129, 1);
+    padding: 5px;
+    color:black ;
+}
+.jn{
+    font-size: larger;
+    margin-bottom: 0px;
+    color:black ;
+}
+#D1{
+    border-radius: 12px 12px 0 0 ;
+}
+#D2{
+    border-radius: 0 0 12px 12px ;
+    padding-bottom: 10px;
+}
+.J{
+    font-size: larger;
+    margin-bottom: 0px;
+    color:black ;
+    margin-top: 5px;
+}

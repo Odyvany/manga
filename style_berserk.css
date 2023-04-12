@@ -1,0 +1,93 @@
+
+.berserk_page{
+    background-color: rgb(117, 16, 16);
+    color:black;
+}
+.ber_body{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.Body{
+    background-color: rgb(59, 55, 55);
+}
+.b1{
+    font-size: 30px;
+}
+.name{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 5px;
+    color: rgb(157, 13, 13);
+    font-family: 'Gemunu Libre', sans-serif;
+    font-weight: bold;
+}
+.b2{
+    text-align: center;
+    margin-top: 0;
+    border: 20px;
+    border: solid;
+    padding:10px;
+}
+.ber_text{
+    font-size:25px;
+    margin-top: 10px;
+    border-color: rgb(155, 50, 50);
+    background-color: rgb(37, 25, 25);
+    color:azure
+}
+.ber1{
+    font-size: 30px;
+    font-style: solid;
+}
+.b_t{
+    text-align: center;
+    font-size: large;
+    color: rgba(229, 208, 208, 0.956);
+}
+.risovka{
+    font-size: 30px;
+    margin-bottom: 10px;
+    color:rgb(255, 98, 98);
+    font-family: 'Jost', sans-serif;
+}
+.p1{
+    height: 10%;
+    width: 70%;
+    margin-top: 10px;
+}
+.world{
+    font-size: 30px;
+    margin-bottom: 10px;
+    color:rgb(255, 98, 98);
+    font-family: 'Jost', sans-serif;
+}
+.sujet{
+    font-size: 30px;
+    margin-bottom: 10px;
+    color:rgb(255, 98, 98);
+    font-family: 'Jost', sans-serif;
+}
+.posul{
+    font-size: 30px;
+    margin-bottom: 10px;
+    color:rgb(255, 98, 98);
+    font-family: 'Jost', sans-serif;
+}
+.zakluchenie{
+    height: 80%;
+    margin-top: 40px;
+    color:rgb(255, 98, 98);
+    font-family: 'Jost', sans-serif;
+}
+.zakluchenie1{
+    font-size: large;
+    text-align: center;
+    margin-top: 10px;
+    color: rgba(229, 208, 208, 0.956);
+}
+.treiler{
+    margin-top: 20px;
+    text-align: center;
+}
+
