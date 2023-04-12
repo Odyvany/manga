@@ -77,7 +77,7 @@
 .berserk_page:hover{
     height: 70px;
     width: 12%;
-    background-image:url('/img/Berserk_img/button_ber.jpg') ;
+    background-image:url('img/Berserk_img/button_ber.jpg') ;
     background-size:100%;
     margin-top: -15px;
     transition-duration: 1.5s;
