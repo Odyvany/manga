@@ -43,6 +43,7 @@
     margin-left: 0%;
     opacity: 1;
     font-family: 'Audiowide', cursive;
+    min-width: 170px;
 }
 .main_page:hover{
     height: 70px;
@@ -73,6 +74,8 @@
     position: absolute;
     margin-left: 12%;
     font-family: 'Volkhov', serif;
+    margin-left: max(150px, 12%);
+    min-width: 150px;
 }
 .berserk_page:hover{
     height: 70px;
@@ -97,6 +100,8 @@
     position: absolute;
     margin-left: 24%;
     font-family: 'Volkhov', serif;
+    min-width: 150px;
+    margin-left: max(340px, 24%);
 }
 .chainsaw_page:hover{
     height: 70px;
@@ -122,6 +127,8 @@
     margin-left: 36%;
     font-family: 'Volkhov', serif;
     font-size: 10px;
+    min-width: 150px;
+    margin-left: max(510px, 36%);
 }
 .reincornation_page:hover{
     height: 70px;
