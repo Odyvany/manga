@@ -22,8 +22,8 @@
     width: 100%;
     position: absolute;
     display: flex;
-    color:aliceblue
-
+    color:aliceblue;
+    user-select: none;
 }
 .logo_ch{
     height: 50px;
